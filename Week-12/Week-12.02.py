@@ -29,7 +29,7 @@ def is_power_of_four(n):
 
 
 # Test the function
-
+ 
 n = int(input())
 
 print(is_power_of_four(n))
