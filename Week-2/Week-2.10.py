@@ -16,7 +16,7 @@ Input	Result
 
 123	3
 
-
+ 
 
 
 
