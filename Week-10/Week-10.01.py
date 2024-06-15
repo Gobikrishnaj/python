@@ -16,7 +16,7 @@ Input	Result
 
 
 
-
+ 
 
 a=int(input())
 
