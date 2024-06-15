@@ -17,7 +17,7 @@ Sample Test Cases
 Test Case 1
 
 Input
-
+ 
 70
 
 60
