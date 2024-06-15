@@ -11,7 +11,7 @@ Sample Test Cases
  7
 
 23
-
+ 
 45
 
 23
