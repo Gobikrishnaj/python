@@ -9,7 +9,7 @@ Sample Input 1
 a2b4c6 
 
 
-
+ 
 Sample Output 1
 
 aabbbbcccccc
