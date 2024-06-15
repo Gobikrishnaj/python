@@ -14,7 +14,7 @@ Year Animal
 
 2004 Monkey
 
-2005 Rooster
+2005 Rooster 
 
 2006 Dog
 
