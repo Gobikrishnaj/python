@@ -7,7 +7,7 @@ Write a Python program that asks the user for their age and prints a message bas
 Input Format:
 
 A single line input representing the user's age.
-
+ 
 
 
 Output Format:
