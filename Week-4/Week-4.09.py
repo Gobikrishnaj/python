@@ -16,7 +16,7 @@ Example Input:
 
 Output:
 
-Yes
+Yes 
 
 Example Input:
 
