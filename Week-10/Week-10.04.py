@@ -17,7 +17,7 @@ Input	Result
 42	True
 
 
-
+ 
 
 
 a = input().split(",")
