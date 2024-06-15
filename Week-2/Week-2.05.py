@@ -14,7 +14,7 @@ Balance as of end of Year 2: $10816.00.
 
 Balance as of end of Year 3: $11248.64
 
-
+ 
 
 a=int(input())
 
