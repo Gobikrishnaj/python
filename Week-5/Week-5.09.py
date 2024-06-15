@@ -12,7 +12,7 @@ For example, if there are 4 elements in the array:
 
 5
 
-7
+7 
 
 
 
