@@ -7,7 +7,7 @@ Input Format:
 The first line contains space-separated values, denoting the size of the two arrays in integer format respectively.
 
 The next two lines contain the space-separated integer arrays to be compared.
-
+ 
 
 
 Sample Input:
