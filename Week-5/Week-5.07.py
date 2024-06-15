@@ -4,7 +4,7 @@ Write a Python program to Zip two given lists of lists.
 
 
 
-Input:
+Input: 
 
 m : row size
 
