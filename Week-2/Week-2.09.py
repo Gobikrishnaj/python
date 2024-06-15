@@ -11,7 +11,7 @@ Sample Output
 The tax is 5.00 and the tip is 18.00, making the total 123.00
 
 
-
+ 
 
 
 a=int(input())
